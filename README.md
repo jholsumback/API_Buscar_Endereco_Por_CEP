@@ -27,6 +27,23 @@ Este projeto foi criado com o objetivo de treinar o consumo de APIs e manipulaç
 - Validações de entrada mais robustas
 
 
+## 🛠 Como Executar
+
+- Clone o repositório:
+  
+  git clone https://github.com/seu-usuario/seu-repo.git
+  cd seu-repo
+
+- Instale as dependências:
+  
+  pip install requests
+
+- Execute o arquivo:
+  
+  python viacep.py
+
+
+
 Exemplo de saída no terminal:
 
 
