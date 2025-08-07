@@ -16,9 +16,9 @@ endereco = pegar_endereco(cep)
 
 # Verifica se a API retornou "erro": true (CEP inválido)
 if endereco.get("erro") is True:
-    print("❌ CEP não encontrado")
+    print("CEP não encontrado")
 else:
-    print("✅ Endereço encontrado:")
+    print("Endereço encontrado:")
     print(f"Logradouro: {mostrar(endereco.get('logradouro'))}")
     print(f"Bairro: {mostrar(endereco.get('bairro'))}")
     print(f"Cidade: {mostrar(endereco.get('localidade'))}")
