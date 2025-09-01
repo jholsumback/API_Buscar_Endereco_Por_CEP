@@ -31,8 +31,9 @@ Este projeto foi criado com o objetivo de treinar o consumo de APIs e manipulaç
 
 - Clone o repositório:
   
-  git clone https://github.com/jholsumback/API_Buscar_Endereco_Por_CEP.git
-  cd API_Buscar_Endereco_Por_CEP
+   ```bash
+   git clone https://github.com/jholsumback/API_Buscar_Endereco_Por_CEP.git
+   cd API_Buscar_Endereco_Por_CEP
 
 - Instale as dependências:
   
